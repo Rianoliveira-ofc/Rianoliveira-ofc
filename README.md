@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=220&section=header&text=RianDev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer%20•%20React%20•%20Node.js%20•%20C%23&descAlignY=55&descSize=20" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=Rianoliveira-ofc&label=Profile+Views&color=111111&style=for-the-badge" />
 
 # 👨‍💻 Rian Oliveira
 
-### FullStack Developer • Embedded Systems • Musician
+### FullStack Developer • Embedded Systems Enthusiast • Bass Player
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Node.js+%7C+C#;ETEC+Development+Systems+Student;Bass+Player+%F0%9F%8E%B8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+%7C+C%23;ETEC+Development+Systems+Student;Embedded+Systems+Enthusiast;Bass+Player+%F0%9F%8E%B8" />
 </p>
 
 </div>
@@ -38,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,c,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,git,github,vscode" />
 
 </div>
 
