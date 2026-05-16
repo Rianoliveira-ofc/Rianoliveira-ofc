@@ -9,7 +9,7 @@
 ### FullStack Developer • Embedded Systems Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+%7C+C%23;ETEC+Development+Systems+Student;Embedded+Systems+Enthusiast;%F0%9F%8E%B8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+%7C+C%23;ETEC+Development+Systems+Student;Focused+on+modern+Frontend;%F0%9F%8E%B8" />
 </p>
 
 </div>
