@@ -6,7 +6,7 @@
 <!-- ===== PROFILE VIEWS ===== -->
 <img src="https://komarev.com/ghpvc/?username=Rianoliveira-ofc&label=Profile+Views&color=111111&style=for-the-badge" />
 
-# 👨‍💻 Rian Oliveira
+# 👨‍💻 RianDev
 
 ### FullStack Developer • Frontend Developer
 
