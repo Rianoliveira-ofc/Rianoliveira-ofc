@@ -42,7 +42,7 @@
 <div align="center">
 
 <!-- ===== EDITE SUAS SKILLS AQUI ===== -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
 </div>
 
@@ -53,7 +53,7 @@
 <div align="center">
 
 <!-- ===== ADICIONE NOVAS TECNOLOGIAS AQUI ===== -->
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,mysql" />
+<img src="https://skillicons.dev/icons?i=react,js,mysql" />
 
 </div>
 
@@ -117,11 +117,11 @@
 # 📌 Future Skills
 
 ```txt
+C#
 TypeScript
 Next.js
 UI/UX
 API REST
-MongoDB
 Docker
 ```
 
