@@ -32,7 +32,7 @@ Always learning and building new projects
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Stack
 
 <div align="center">
 
