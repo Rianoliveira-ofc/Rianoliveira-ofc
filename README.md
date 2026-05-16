@@ -7,7 +7,7 @@
 ### FullStack Developer • Embedded Systems • Musician
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Node.js+%7C+C;ETEC+Development+Systems+Student;Bass+Player+%F0%9F%8E%B8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Node.js+%7C+C#;ETEC+Development+Systems+Student;Bass+Player+%F0%9F%8E%B8" />
 </p>
 
 </div>
@@ -18,7 +18,7 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas na ETEC  
 ⚛️ Focado em Frontend moderno com React  
-🛠️ Explorando sistemas embarcados e programação em C  
+🛠️ Explorando sistemas embarcados e programação em C#  
 🎸 Baixista gospel semi profissional  
 🚀 Sempre aprendendo e construindo projetos novos
 
@@ -28,7 +28,7 @@
 
 🎓 Systems Development student at ETEC  
 ⚛️ Focused on modern Frontend with React  
-🛠️ Exploring embedded systems and C programming  
+🛠️ Exploring embedded systems and C# programming  
 🎸 Semi-professional gospel bass player  
 🚀 Always learning and building new things
 
