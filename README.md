@@ -1,16 +1,99 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rianoliveira-ofc/Rianoliveira-ofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=220&section=header&text=RianDev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-Here are some ideas to get you started:
+# 👨‍💻 Rian Oliveira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FullStack Developer • Embedded Systems • Musician
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Node.js+%7C+C;ETEC+Development+Systems+Student;Bass+Player+%F0%9F%8E%B8" />
+</p>
+
+</div>
+
+---
+
+## 🇧🇷 Sobre mim
+
+🎓 Estudante de Desenvolvimento de Sistemas na ETEC  
+⚛️ Focado em Frontend moderno com React  
+🛠️ Explorando sistemas embarcados e programação em C  
+🎸 Baixista gospel semi profissional  
+🚀 Sempre aprendendo e construindo projetos novos
+
+---
+
+## 🇺🇸 About Me
+
+🎓 Systems Development student at ETEC  
+⚛️ Focused on modern Frontend with React  
+🛠️ Exploring embedded systems and C programming  
+🎸 Semi-professional gospel bass player  
+🚀 Always learning and building new things
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,c,git,github,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rianoliveira-ofc&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rianoliveira-ofc&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rianoliveira-ofc&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Socials
+
+<div align="center">
+
+<a href="COLOQUE_SEU_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/_rianoc/">
+  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 🐍 Contributions Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code. Create. Evolve.”
+
+</div>
