@@ -85,8 +85,8 @@
 
 <div align="center">
 
-<!-- ===== PORTFÓLIO ===== -->
-<a href="COLOQUE_SEU_PORTFOLIO">
+<!-- ===== LINKBIO ===== -->
+<a href="https://rianoliveira-ofc.github.io/linkbio/">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
@@ -101,17 +101,6 @@
 </a>
 
 </div>
-
----
-
-# 🐍 Contributions Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
 ---
 
 # 📌 Future Skills
