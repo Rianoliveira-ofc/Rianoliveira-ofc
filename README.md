@@ -65,7 +65,7 @@ Always learning and building new projects
 </div>
 
 
-# 📌 Future Skills
+# Future Skills
 
 ```txt
 FULLSTACK
@@ -106,6 +106,6 @@ etc...
 
 <div align="center">
 
-### ✨ "Code. Create. Evolve."
+### "Code. Create. Evolve."
 
 </div>
