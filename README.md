@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20-%20FullStack+in+Progress&descAlignY=55&descSize=20" width="100%" />
 
 # RianDev
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=Development+Systems+Student;Always+Learning+New+Technologies;Self-taught"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=System+Development+Student;Always+Learning+New+Technologies;Self-taught"/>
 </p>
 
 </div>
@@ -37,7 +37,7 @@ Always learning and building new projects
 <div align="center">
 
 <!-- ===== EDITE SUAS SKILLS AQUI ===== -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github,linux" />
 
 </div>
 
@@ -70,7 +70,6 @@ Always learning and building new projects
 ```txt
 FULLSTACK
 Node.js
-TypeScrip
 API REST
 SQL
 Docker
