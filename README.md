@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20•%20Frontend%20Developer&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20" width="100%" />
 
 # RianDev
 
@@ -37,7 +37,7 @@ Always learning and building new projects
 <div align="center">
 
 <!-- ===== EDITE SUAS SKILLS AQUI ===== -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github" />
 
 </div>
 
@@ -68,12 +68,13 @@ Always learning and building new projects
 # 📌 Future Skills
 
 ```txt
-UI/UX
+FULLSTACK
 Node.js
 TypeScrip
 API REST
 SQL
 Docker
+C#
 ```
 
 <!--
