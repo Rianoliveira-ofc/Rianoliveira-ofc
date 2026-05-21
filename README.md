@@ -17,7 +17,7 @@
 # 🇧🇷 Sobre mim
 
 Estudante de Desenvolvimento de Sistemas <br>
-Focado em Frontend moderno <br>
+Focado em Frontend moderno Migrando para o Backend <br>
 Explorando desenvolvimento FullStack e novas tecnologias  <br>
 Sempre aprendendo e criando novos projetos
 
@@ -26,7 +26,7 @@ Sempre aprendendo e criando novos projetos
 # 🇺🇸 About Me
 
 Systems Development student <br>
-Focused on modern Frontend <br> 
+Focused on modern Frontend Migrating to the Backend  <br> 
 Exploring FullStack development and modern technologies  <br>
 Always learning and building new projects
 
@@ -37,7 +37,7 @@ Always learning and building new projects
 <div align="center">
 
 <!-- ===== EDITE SUAS SKILLS AQUI ===== -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,git,github,linux" />
 
 </div>
 
