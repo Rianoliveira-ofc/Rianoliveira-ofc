@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20-%20FullStack+in+Progress&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20de%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20-%20Backend+in+Progress&descAlignY=55&descSize=20" width="100%" />
 
 # RianDev
 
@@ -17,8 +17,8 @@
 # 🇧🇷 Sobre mim
 
 Estudante de Desenvolvimento de Sistemas <br>
-Focado em Frontend moderno Migrando para o Backend <br>
-Explorando desenvolvimento FullStack e novas tecnologias  <br>
+Experiência em Frontend moderno <br>
+Migrando para o desenvolvimento Backend e novas tecnologias  <br>
 Sempre aprendendo e criando novos projetos
 
 ---
@@ -26,24 +26,24 @@ Sempre aprendendo e criando novos projetos
 # 🇺🇸 About Me
 
 Systems Development student <br>
-Focused on modern Frontend Migrating to the Backend  <br> 
-Exploring FullStack development and modern technologies  <br>
+Experience on modern Frontend <br> 
+Migrating to backend development and new technologies.  <br>
 Always learning and building new projects
 
 ---
 
-# 🚀 Stack
+# Stacks
 
 <div align="center">
 
 <!-- ===== EDITE SUAS SKILLS AQUI ===== -->
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,git,github,linux" />
 
 </div>
 
 ---
 
-# 🌐 Socials
+# Socials
 
 <div align="center">
 
@@ -73,6 +73,7 @@ Node.js
 API REST
 SQL
 Docker
+AWS
 C#
 ```
 
