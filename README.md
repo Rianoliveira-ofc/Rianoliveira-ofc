@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20de%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20de%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20and%20Web%20Developer%20&descAlignY=55&descSize=20" width="100%" />
 
 # RianDev
 
