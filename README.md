@@ -1,81 +1,87 @@
 <div align="center">
 
-<!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,25:1a1a1a,50:222222,75:2d2d2d,100:000000&height=300&section=header&text=Rian%20de%20Oliveira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20and%20Web%20Developer%20&descAlignY=55&descSize=20" width="100%" />
-
 # RianDev
 
-<!-- ===== TYPING ANIMATION ===== -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=System+Development+Student;Always+Learning+New+Technologies;Self-taught"/>
-</p>
+### Software Engineering Student
+
+Backend · Automation · AI
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,git,html,css,vscode,linux" />
 
 </div>
 
 ---
 
-# 🇧🇷 Sobre mim
+## About Me
 
-Estudante de Desenvolvimento de Sistemas <br>
-Experiência em Frontend moderno <br>
-Sempre aprendendo e criando novos projetos
+I'm a Systems Development student focused on **Software Engineering**.
 
----
+I'm currently developing my skills in **Backend Development, Automation and Artificial Intelligence**, while strengthening my knowledge of programming, databases, software architecture and development practices.
 
-# 🇺🇸 About Me
-
-Systems Development student <br>
-Experience on modern Frontend <br> 
-Always learning and building new projects
+I have hands-on experience with **HTML, CSS, JavaScript and Linux**, and I'm continuously expanding my knowledge through study and personal projects.
 
 ---
 
-# Current Stacks
+## Focus
+
+```text
+Software Engineering
+├── Backend Development
+├── Automation
+├── Databases
+└── Artificial Intelligence
+```
+
+### Currently studying
 
 <div align="center">
 
-<!-- ===== EDITE SUAS SKILLS AQUI ===== -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=js,git,mysql,linux" />
+
+</div>
+
+---
+
+## Next Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,mysql,docker,python,aws" />
+
+</div>
+
+---
+
+## Background
+
+**Systems Development — ETEC**
+
+Technical education focused on software development, programming, databases and computer systems.
+
+Frontend development is part of my technical background, while my current direction is focused on **software engineering, backend development, automation and AI**.
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/Rianoliveira-ofc">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF">
+</a>
+
+<a href="https://www.instagram.com/_rianoc/">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF">
+</a>
 
 </div>
 
 <br>
 
-# Future Stacks
-
 <div align="center">
 
-<!-- ===== EDITE SUAS SKILLS AQUI ===== -->
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,docker" />
-
-</div>
-
----
-
-# Socials
-
-<div align="center">
-
-<!-- ===== LINKBIO ===== -->
-<a href="https://rianoliveira-ofc.github.io/linkbio/">
-  <img src="https://img.shields.io/badge/Linkbio-000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<!-- ===== INSTAGRAM ===== -->
-<a href="https://www.instagram.com/_rianoc/">
-  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<!-- ===== GITHUB ===== -->
-<a href="https://github.com/Rianoliveira-ofc">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
----
-
-<div align="center">
-
-### "Code. Create. Evolve."
+<sub>Building software, learning continuously.</sub>
 
 </div>
