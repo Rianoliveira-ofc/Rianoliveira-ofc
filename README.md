@@ -1,6 +1,6 @@
 <div align="center">
 
-# RianDev
+# Rian d'Oliveira
 
 ### Software Engineering Student
 
