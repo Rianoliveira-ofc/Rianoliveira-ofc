@@ -2,7 +2,7 @@
 
 # Rian d'Oliveira
 
-### Software Engineering Student
+## Software Engineering Student
 
 Backend · Automation · AI
 
@@ -14,7 +14,7 @@ Backend · Automation · AI
 
 
 
-## Next Technologies
+### Next Technologies
 
 <div align="center">
 
@@ -23,7 +23,7 @@ Backend · Automation · AI
 </div>
 
 
-## Background
+### Background
 
 **Systems Development — ETEC**
 
@@ -33,7 +33,7 @@ Frontend development is part of my technical background, while my current direct
 
 ---
 
-## Connect
+### Connect
 
 <div align="center">
 
