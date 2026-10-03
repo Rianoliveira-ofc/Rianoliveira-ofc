@@ -12,14 +12,6 @@ Backend · Automation · AI
 
 </div>
 
-### Currently studying
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,git,mysql,linux" />
-
-</div>
-
 ---
 
 ## Next Technologies
