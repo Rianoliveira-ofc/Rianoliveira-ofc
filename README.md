@@ -12,28 +12,6 @@ Backend · Automation · AI
 
 </div>
 
----
-
-## About Me
-
-I'm a Systems Development student focused on **Software Engineering**.
-
-I'm currently developing my skills in **Backend Development, Automation and Artificial Intelligence**, while strengthening my knowledge of programming, databases, software architecture and development practices.
-
-I have hands-on experience with **HTML, CSS, JavaScript and Linux**, and I'm continuously expanding my knowledge through study and personal projects.
-
----
-
-## Focus
-
-```text
-Software Engineering
-├── Backend Development
-├── Automation
-├── Databases
-└── Artificial Intelligence
-```
-
 ### Currently studying
 
 <div align="center">
