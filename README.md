@@ -12,7 +12,7 @@ Backend · Automation · AI
 
 </div>
 
----
+
 
 ## Next Technologies
 
@@ -22,7 +22,6 @@ Backend · Automation · AI
 
 </div>
 
----
 
 ## Background
 
